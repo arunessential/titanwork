@@ -53,12 +53,9 @@
 
 **真实企业负资产负债示例**
 
-我们以小米集团的公开财报数据，生成下图：
+我们以某上市公司的公开财报数据，生成下图：
 
-> 公开数据获取渠道：https://ir.mi.com/zh-hans/financial-information/
-quarterly-results
-
-![](小米-资产负债-1.png)
+![](资产负债-1.png)
 
 
 
